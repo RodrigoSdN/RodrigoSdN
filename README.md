@@ -28,3 +28,5 @@
   
   
   
+![Snake animation](https://github.com/RodrigoSdN/RodrigoSdN/blob/output/github-contribution-grid-snake.svg)
+ 
